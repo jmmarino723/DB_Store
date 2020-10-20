@@ -14,9 +14,9 @@ DB Store description and DB
 11. Mostrar ususarios con mayor cantidad de puntos para ofertas.
 12. Acceso restringido por perfiles a cierta información.
 13. Tabla de usuarios de acceso independiente. (CC empleado, cargo, nivel acceso)
-14. 
-15.
-16. 
+14. Tabla de mínimos y máximos.
+15. Alertas por mínimos para compras.
+16. Fidelización por cumpleaños.
 17. 
 18. 
 19. 
@@ -32,3 +32,16 @@ Descripción de las variables y llaves primarias de cada una de las tablas a cre
 * Ape_empleado
 * Nivel_acceso
 * Cargo_empleado
+
+### Clientes
+* CC_Cliente: **(PRIMARY_KEY)**
+* Nom_cliente
+* Ape_cliente
+* Cumple
+* ID_puntos
+
+### Puntos
+* ID_puntos: **(PRIMARY_KEY)**
+* Cant_punt
+
+
