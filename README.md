@@ -27,7 +27,7 @@ DB Store description and DB
 Descripción de las variables y llaves primarias de cada una de las tablas a crear, así como las relaciones que se tienen:
 
 ### Empleados
-* CC_empleado ** (PRIMARY_KEY) **
+* CC_empleado **(PRIMARY_KEY)**
 * Nom_empleado
 * Ape_empleado
 * Nivel_acceso
