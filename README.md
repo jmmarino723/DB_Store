@@ -12,4 +12,21 @@ DB Store description and DB
 9. Mostrar productos más vendidos TOP 10 del mes.
 10. Mostrar productos menos vendidos TOP 10 del mes.
 11. Mostrar ususarios con mayor cantidad de puntos para ofertas.
-12. 
+12. Acceso restringido por perfiles a cierta información.
+13. Tabla de usuarios de acceso independiente. (CC empleado, cargo, nivel acceso)
+14. 
+15.
+16. 
+17. 
+18. 
+19. 
+20. 
+
+## Tablas ##
+
+### Empleados
+* CC_empleado
+* Nom_empleado
+* Ape_empleado
+* Nivel_acceso
+* Cargo_empleado
