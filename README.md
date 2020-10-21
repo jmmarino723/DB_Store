@@ -17,7 +17,7 @@ DB Store description and DB
 14. Tabla de mínimos y máximos.
 15. Alertas por mínimos para compras.
 16. Fidelización por cumpleaños.
-17. 
+17. Enviar correo después de 1 mes sin compra.
 18. 
 19. 
 20. 
@@ -25,6 +25,15 @@ DB Store description and DB
 ## Tablas ##
 
 Descripción de las variables y llaves primarias de cada una de las tablas a crear, así como las relaciones que se tienen:
+
+### Productos
+* ID_producto **(PRIMARY_KEY)**
+* ID_Categoría **(KEY)**
+* Nombre_producto
+* Precio producto
+* Desc_producto
+* Img_producto
+* Ultima_act
 
 ### Empleados
 * CC_empleado **(PRIMARY_KEY)**
