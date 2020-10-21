@@ -29,11 +29,20 @@ Descripción de las variables y llaves primarias de cada una de las tablas a cre
 ### Productos
 * ID_producto **(PRIMARY_KEY)**
 * ID_Categoría **(KEY)**
+* ID_Proveedor **(KEY)**
 * Nombre_producto
 * Precio producto
 * Desc_producto
 * Img_producto
 * Ultima_act
+
+### Proveedor
+* ID_Proveedor **(PRIMARY_KEY)**
+* Nombre_Proveedor
+* Tel_Proveedor
+* Email_proveedor
+* Direcc_Proveedor
+* Ciudad_Proveedor
 
 ### Categorías
 * ID_Categoría **(PRIMARY_KEY)**
