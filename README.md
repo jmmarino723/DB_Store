@@ -35,6 +35,10 @@ Descripción de las variables y llaves primarias de cada una de las tablas a cre
 * Img_producto
 * Ultima_act
 
+### Categorías
+* ID_Categoría **(PRIMARY_KEY)**
+* Desc_Categoría
+
 ### Empleados
 * CC_empleado **(PRIMARY_KEY)**
 * Nom_empleado
