@@ -14,10 +14,10 @@ DB Store description and DB
 11. Mostrar ususarios con mayor cantidad de puntos para ofertas.
 12. Acceso restringido por perfiles a cierta información.
 13. Tabla de usuarios de acceso independiente. (CC empleado, cargo, nivel acceso)
-14. Tabla de mínimos y máximos.
+14. Mostrar inventario por mínimos y máximos.
 15. Alertas por mínimos para compras.
-16. Fidelización por cumpleaños.
-17. Enviar correo después de 1 mes sin compra.
+16. Fidelización por cumpleaños. Enviar correo a clientes.
+17. Enviar correo después de 1 mes sin compra a clientes.
 18. 
 19. 
 20. 
