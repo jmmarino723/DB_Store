@@ -18,7 +18,7 @@ DB Store description and DB
 15. Alertas por mínimos para compras.
 16. Fidelización por cumpleaños. Enviar correo a clientes.
 17. Enviar correo después de 1 mes sin compra a clientes.
-18. 
+18. Mostrar rentabilidad de cada producto.
 19. 
 20. 
 
